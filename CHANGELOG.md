@@ -3,6 +3,10 @@
 
 ## [Unreleased]
 
+## [0.1.0 beta] - 2024-08-15
+## Changed
+- Changed by updating README.md
+
 ## [0.1.0 beta] - 2024-08-14
 ## Changed
 - Changed by updating README.md
