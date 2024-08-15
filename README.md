@@ -1,2 +1,2 @@
 # List_AcademicActivities
-List of Academic Activities. 
+A list of Academic Activities. 
