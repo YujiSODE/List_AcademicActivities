@@ -5,8 +5,6 @@ GitHub: https://github.com/YujiSODE/List_AcademicActivities
 >Copyright (c) 2024 Yuji SODE \<yuji.sode@gmail.com\>  
 ______
 ## List
-### September, 2015: Joined Field Study with Institute of Earth Sciences, University of Lausanne in Sicily (Italy). 
-
 ### Sode, Y. and Okamoto, T., 2014: Compositional Analysis of "_Baculites_ facies" and its Biological Significance. 14_th_ _Meeting_, _Geological_ _Society_ _of_ _Japan_, _Shikoku_ _Branch_, _Abstract_, P-1, p. 9. 
 - Link:
 - Download from the archive: 
@@ -17,6 +15,8 @@ ______
 - Link: https://www.palaeo-soc-japan.jp/events/164_2015.pdf 
 - Download from the archive
   - [Download 1](https://github.com/YujiSODE/List_AcademicActivities/blob/main/2015_164th_RegularMeeting_PalaeontSocJapan.pdf) 
+
+### September, 2015: Joined Field Study with Institute of Earth Sciences, University of Lausanne in Sicily (Italy). 
 
 ### Sode, Y., 2024a: Applicability of Random Simulation to the Evaluation of Interpolation. 2024 _Annual_ _Meeting_, _Palaeontological_ _Society_ _of_ _Japan_, _Abstracts_ _with_ _Programs_, P72-C, p. 53. 
 - Link: https://www.palaeo-soc-japan.jp/events/PSJ202406_KochiAbstract.pdf 
