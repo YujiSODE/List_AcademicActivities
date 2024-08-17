@@ -3,6 +3,10 @@
 
 ## [Unreleased]
 
+## [0.1.0 beta] - 2024-08-17
+## Fixed
+- Fixed the markdown format by adding a space character
+
 ## [0.1.0 beta] - 2024-08-15
 ## Added
 - Added references for the archive
