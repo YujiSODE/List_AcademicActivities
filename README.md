@@ -35,5 +35,5 @@ ______
 ### Sode, Y., 2024c: Monte Carlo Simulating Approach Based Fitting Model Evaluation. Ebook, Zenn. 
 - Link: https://zenn.dev/yujisode/books/m0ntecarl0_simul_appr_fit_m0deleval 
 - Download from the archive
-  - [Download 1](#) 
+  - [Download 1](https://github.com/YujiSODE/List_AcademicActivities/blob/main/MonteCarloSimulatingApproachBasedFittingModelEvaluation.pdf) 
 
