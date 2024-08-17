@@ -27,7 +27,7 @@ ______
 ### Sode, Y., 2022-2023: Morphological collection in Paleobiology. Ebook, Zenn. 
 - Link: https://zenn.dev/yujisode/books/paleobio-collection_yscollection07_18 
 - Download from the archive
-  - [Download 1](#) 
+  - [Download 1](https://github.com/YujiSODE/List_AcademicActivities/blob/main/Zenn_paleobio_v3_0_1-min.pdf) 
 
 ### Sode, Y., 2024b: Sode2024_AnnualMeeting_PalaeontSocJp-supplementaryData. 
 - Link: https://github.com/YujiSODE/Sode2024_AnnualMeeting_PalaeontSocJp-supplementaryData 

@@ -5,6 +5,7 @@
 
 ## [0.1.0 beta] - 2024-08-17
 ## Added
+- Added a download link for Zenn_paleobio_v3_0_1-min.pdf
 - Added Zenn_paleobio_v3_0_1-min.pdf
 - Added a download link for MonteCarloSimulatingApproachBasedFittingModelEvaluation.pdf
 - Added a Version
