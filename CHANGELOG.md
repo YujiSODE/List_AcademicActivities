@@ -5,6 +5,7 @@
 
 ## [0.1.0 beta] - 2024-08-17
 ## Added
+- Added a Version
 - Added MonteCarloSimulatingApproachBasedFittingModelEvaluation.pdf
 
 ## Fixed

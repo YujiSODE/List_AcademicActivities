@@ -1,5 +1,6 @@
 # List_AcademicActivities
-A list of Academic Activities as an archive. 
+A list of Academic Activities as an archive.  
+Version: `v0.1.0`
 ___
 GitHub: https://github.com/YujiSODE/List_AcademicActivities  
 >Copyright (c) 2024 Yuji SODE \<yuji.sode@gmail.com\>  
