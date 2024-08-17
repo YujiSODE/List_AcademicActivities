@@ -4,6 +4,9 @@
 ## [Unreleased]
 
 ## [0.1.0 beta] - 2024-08-17
+## Added
+- Added MonteCarloSimulatingApproachBasedFittingModelEvaluation.pdf
+
 ## Fixed
 - Fixed the markdown format by adding a space character
 
