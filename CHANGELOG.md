@@ -5,6 +5,7 @@
 
 ## [1.0.0] - 2024-08-18
 ## Changed
+- Changed the qr code image into a image link and its place
 - Applied v0.1.0 to v1.0.0
 
 ## [0.1.0 beta] - 2024-08-17
