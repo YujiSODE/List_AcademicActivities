@@ -1,3 +1,4 @@
+![qr code for the link to List_AcademicActivities](https://github.com/YujiSODE/List_AcademicActivities/blob/main/qr-code-List_AcademicActivities.png) 
 # List_AcademicActivities
 A list of Academic Activities as an archive.  
 Version: `v0.1.0`
