@@ -3,6 +3,10 @@
 
 ## [Unreleased]
 
+## [1.0.0] - 2024-08-18
+## Changed
+- Applied v0.1.0 to v1.0.0
+
 ## [0.1.0 beta] - 2024-08-17
 ## Added
 - Added link to this repository via the qr code

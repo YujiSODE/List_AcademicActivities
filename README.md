@@ -1,8 +1,9 @@
-![qr code for the link to List_AcademicActivities](https://github.com/YujiSODE/List_AcademicActivities/blob/main/qr-code-List_AcademicActivities.png) 
 # List_AcademicActivities
 A list of Academic Activities as an archive.  
-Version: `v0.1.0`
+Version: `v1.0.0`
 ___
+![qr code for the link to List_AcademicActivities](https://github.com/YujiSODE/List_AcademicActivities/blob/main/qr-code-List_AcademicActivities.png) 
+[![qr code for the link to List_AcademicActivities](https://github.com/YujiSODE/List_AcademicActivities/blob/main/qr-code-List_AcademicActivities.png)](https://github.com/YujiSODE/List_AcademicActivities) 
 GitHub: https://github.com/YujiSODE/List_AcademicActivities  
 >Copyright (c) 2024 Yuji SODE \<yuji.sode@gmail.com\>  
 ______
