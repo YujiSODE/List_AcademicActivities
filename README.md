@@ -1,5 +1,5 @@
 # List_AcademicActivities
-A list of Academic Activities as an archive.  
+A list of the academic activities as an archive.  
 Version: `v1.0.0`
 ___
 [![qr code for the link to List_AcademicActivities](https://github.com/YujiSODE/List_AcademicActivities/blob/main/qr-code-List_AcademicActivities.png)](https://github.com/YujiSODE/List_AcademicActivities)  

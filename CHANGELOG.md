@@ -4,6 +4,9 @@
 ## [Unreleased]
 
 ## [1.0.0] - 2024-08-18
+## Fixed
+- Fixed explanation
+
 ## Changed
 - Changed the qr code image into a image link and its place
 - Applied v0.1.0 to v1.0.0
